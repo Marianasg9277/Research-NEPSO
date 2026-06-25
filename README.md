@@ -28,14 +28,14 @@
 
 ---
 
-### 📁 Repository Contents
+### 📂 Repository Contents
 
-#### 📂 Musicoterapia-2023-2024
-* `RelatórioFinal_4M's.pdf` - Final research report.
-* `4Ms_tabulaçao.xlsx` - Survey data and results.
-* 📖 **[View the Final Project Presentation on Canva](https://canva.link/xr7drb32ccbv1sk)**
+* 📁 **[`Musicoterapia-2023-2024/`](./Musicoterapia-2023-2024/)**
+  * 📄 **[`RelatórioFinal_4M's.pdf`](./Musicoterapia-2023-2024/RelatórioFinal_4M's.pdf):** Final research report.
+  * 📊 **[`4Ms_tabulaçao.xlsx`](./Musicoterapia-2023-2024/4Ms_tabulaçao.xlsx):** Survey data and results.
+  * 📖 **[View the Final Project Presentation on Canva](https://canva.link/xr7drb32ccbv1sk)**
 
-#### 📂 Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023
-* `RelatórioFinal_Leõessemjuba.pdf` - Final research report.
-* `Leõessemjuba_tabulação.xlsx` - Survey data and results.
-* `Apresentação_Leõessemjuba.pdf` - Final project presentation.
+* 📁 **[`Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023/`](./Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023/)**
+  * 📄 **[`RelatórioFinal_Leõessemjuba.pdf`](./Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023/RelatórioFinal_Leõessemjuba.pdf):** Final research report.
+  * 📊 **[`Leõessemjuba_tabulação.xlsx`](./Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023/Leõessemjuba_tabulação.xlsx):** Survey data and results.
+  * 📄 **[`Apresentação_Leõessemjuba.pdf`](./Mercado-Trabalho-Pessoas-com-Deficiência-2022-2023/Apresentação_Leõessemjuba.pdf):** Final project presentation.
